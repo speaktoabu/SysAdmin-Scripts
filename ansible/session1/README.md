@@ -4,13 +4,13 @@ Ansible is configuration Managment Tool. Besides resource provisioning and confi
 
 ### Ansible’s unique feature set:
 
->> Based on an agent-less architecture (unlike Chef or Puppet).\n
->> Accessed mostly through SSH (it also has local and paramiko modes).\n
->> No custom security infrastructure is required.\n
-Configurations (playbooks, modules etc.) written in the easy-to-use YML format.
-Shipped with more than 250 built-in modules.
-Full configuration management, orchestration, and deployment capability.
-Ansible interacts with its clients either through playbooks or a command-line tool.
+** Based on an agent-less architecture (unlike Chef or Puppet).
+** Accessed mostly through SSH (it also has local and paramiko modes).
+**  No custom security infrastructure is required.\n
+** Configurations (playbooks, modules etc.) written in the easy-to-use YML format.
+** Shipped with more than 250 built-in modules.
+** Full configuration management, orchestration, and deployment capability.
+** Ansible interacts with its clients either through playbooks or a command-line tool.
 
 ### Ansible Architecture
 
