@@ -1,12 +1,12 @@
-### Quick Introduction To Ansible
+# Quick Introduction To Ansible
 Ansible is configuration Managment Tool. Besides resource provisioning and configuration management, Ansible can also orchestrate complex sequences of events like rolling upgrades and zero-downtime provisioning in a simple or multi-tier application environment. The power of Ansible is not limited to managing servers: it also can manage network switches, firewalls, and load balancers. Ansible has been designed to work seamlessly within cloud environments like AWS, VMWare, and Microsoft Azure.
 
 
 ### Ansible’s unique feature set:
 
-Based on an agent-less architecture (unlike Chef or Puppet).
-Accessed mostly through SSH (it also has local and paramiko modes).
-No custom security infrastructure is required.
+>> Based on an agent-less architecture (unlike Chef or Puppet).\n
+>> Accessed mostly through SSH (it also has local and paramiko modes).\n
+>> No custom security infrastructure is required.\n
 Configurations (playbooks, modules etc.) written in the easy-to-use YML format.
 Shipped with more than 250 built-in modules.
 Full configuration management, orchestration, and deployment capability.
